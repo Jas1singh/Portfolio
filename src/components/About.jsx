@@ -14,7 +14,7 @@ function About() {
                     visually stunning Software solutions that leave a lasting impression.
                 </p>
                 <br />
-                <h1 className="text-green-600 font-semibold text-xl">
+                <h1 className="text-blue-600 font-semibold text-xl">
                     Education & Training
                 </h1>
                 <span>
@@ -22,7 +22,7 @@ function About() {
                 </span>
                 <br />
                 <br />
-                <h1 className="text-green-600 font-semibold text-xl">
+                <h1 className="text-blue-600 font-semibold text-xl">
                     Skills & Expertise
                 </h1>
                 <span>
@@ -32,7 +32,7 @@ function About() {
                 </span>
                 <br />
                 <br />
-                <h1 className="text-green-600 font-semibold text-xl">
+                <h1 className="text-blue-600 font-semibold text-xl">
                     Professional Experience
                 </h1>
                 <span>
@@ -45,7 +45,7 @@ function About() {
                 </span>
                 <br />
                 <br />
-                <h1 className="text-green-600 font-semibold text-xl">
+                <h1 className="text-blue-600 font-semibold text-xl">
                     Achievements & Awards
                 </h1>
                 <span>
@@ -53,7 +53,7 @@ function About() {
                 </span>
                 <br />
                 <br />
-                <h1 className="text-green-600 font-semibold text-xl">
+                <h1 className="text-blue-600 font-semibold text-xl">
                     Mission Statement
                 </h1>
                 <p>
