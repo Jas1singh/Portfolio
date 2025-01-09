@@ -13,16 +13,17 @@ function About() {
                     Stack . With a background in IT, I strive to create impactful and
                     visually stunning Software solutions that leave a lasting impression.
                 </p>
-                <br />
-                <h1 className="text-blue-600 font-semibold text-xl">
+                <h1 className="text-blue-600 font-semibold text-xl mt-6">
                     Education & Training
                 </h1>
-                <span>
-                    Master of Computer Application(MCA) From MRSC , Indore  || Bachelor of Computer Application(BCA) From SVIM , Indore 2024.
-                </span>
-                <br />
-                <br />
-                <h1 className="text-blue-600 font-semibold text-xl">
+                <p>
+                    Master of Computer Application(MCA) From Maharaja Ranjit Singh College, Indore.
+                </p>
+                <p>
+                    Bachelor of Computer Application(BCA) From Shri Vaishnav Institute of Management & Science, Indore 2024.
+                </p>
+
+                <h1 className="text-blue-600 font-semibold text-xl mt-6">
                     Skills & Expertise
                 </h1>
                 <span>
@@ -30,9 +31,9 @@ function About() {
                     Excellent problem-solving skills Effective communicator and
                     collaborator.
                 </span>
-                <br />
-                <br />
-                <h1 className="text-blue-600 font-semibold text-xl">
+
+
+                <h1 className="text-blue-600 font-semibold text-xl mt-6">
                     Professional Experience
                 </h1>
                 <span>
@@ -43,17 +44,16 @@ function About() {
           [Dates] [Brief description of projects and contributions] */}
                     As a Freelancer Web Developer, Created Landing Pages sites, Portfolio Websites for the client of BrandViz.com .
                 </span>
-                <br />
-                <br />
-                <h1 className="text-blue-600 font-semibold text-xl">
+
+                <h1 className="text-blue-600 font-semibold text-xl mt-6">
                     Achievements & Awards
                 </h1>
                 <span>
                     Completed Internships & Achieved Certificates in Web Development from Technohacks.com, BharatIntern.com And Python Development from Codsoft.com in 2023.
                 </span>
-                <br />
-                <br />
-                <h1 className="text-blue-600 font-semibold text-xl">
+
+
+                <h1 className="text-blue-600 font-semibold text-xl mt-6">
                     Mission Statement
                 </h1>
                 <p>
