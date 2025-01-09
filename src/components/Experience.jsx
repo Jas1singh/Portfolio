@@ -4,8 +4,10 @@ import css from "../../public/css.jpg";
 import java from "../../public/java.png";
 import javascript from "../../public/javascript.png";
 import oracle from "../../public/oracle.png";
-import spring from "../../public/spring.png";
-import springBoot from "../../public/springBoot.jpg";
+import python from "../../public/python.webp";
+import reactjs from "../../public/reactjs.png";
+import tailwind from "../../public/tailwindCSS.png";
+import nextjs from "../../public/nextjs.png";
 function Experience() {
   const cardItem = [
     {
@@ -35,13 +37,23 @@ function Experience() {
     },
     {
       id: 6,
-      logo: spring,
-      name: "Spring",
+      logo: python,
+      name: "Python",
     },
     {
       id: 7,
-      logo: springBoot,
-      name: "Spring Boot",
+      logo: reactjs,
+      name: "React JS",
+    },
+    {
+      id: 8,
+      logo: tailwind,
+      name: "Tailwind",
+    },
+    {
+      id: 9,
+      logo: nextjs,
+      name: "Next JS",
     },
   ];
   return (
